@@ -12,5 +12,7 @@ namespace WebServer.Models
         //aoolicationuser is the actual table in the DB
         public string FirstName { get; set; }
         public string LastName { get; set; }
+
+        //test git
     }
 }
